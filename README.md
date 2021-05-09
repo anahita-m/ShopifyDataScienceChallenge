@@ -11,7 +11,7 @@ Please check the file [Shopify_Fall2021_DataScience.ipynb](https://github.com/an
 
 <img width="992" alt="Screen Shot 2021-05-09 at 5 17 15 PM" src="https://user-images.githubusercontent.com/43353141/117588651-6ba8ea00-b0ea-11eb-8ef4-81148a7fe326.png">
 
-<img width="1022" alt="Screen Shot 2021-05-09 at 5 15 59 PM" src="https://user-images.githubusercontent.com/43353141/117588667-909d5d00-b0ea-11eb-8aa3-53e5440ce066.png">
+<img width="1014" alt="Screen Shot 2021-05-09 at 5 20 01 PM" src="https://user-images.githubusercontent.com/43353141/117588708-d35f3500-b0ea-11eb-809a-18faab7d29db.png">
 
 
 <img width="1011" alt="data-science-challenge-q2" src="https://user-images.githubusercontent.com/43353141/117588623-1b318c80-b0ea-11eb-8c6b-5c502901aa2d.png">
